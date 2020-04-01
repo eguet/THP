@@ -1,0 +1,187 @@
+*
+{
+  font-family: Arial;
+}
+
+section
+{
+  margin: auto;
+  width: 300px;
+  margin-top: 180px
+}
+
+.recherche
+{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+input
+{
+ width: 79cm;
+ text-align: center;
+ border-radius: 20px;
+}
+
+.boutons
+{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px
+}
+
+
+.chance: 
+{
+  color: #5F6368;
+  border: 15px #F4F4F4;
+  background-color: #F4F4F4;
+}
+
+.chance: visited
+{
+  color: #5F6368;
+  border: 15px #F4F4F4;
+  background-color: #F4F4F4;
+}
+
+.rec: visited
+{
+  color: #5F6368;
+  border: 15px #F4F4F4;
+  background-color: #F4F4F4;
+}
+
+h1
+{
+  color: #5F6368;
+  border: 15px #F4F4F4;
+  background-color: #F4F4F4;
+  font-size: smaller;
+}
+
+h1:visited
+{
+  color: #5F6368;
+  border: 15px black;
+  background-color: #F4F4F4;
+  font-size: smaller;
+  text-decoration: none;
+}
+
+
+
+
+p
+{
+  font-family: Arial;
+  font-size: smaller;
+  text-align: center;
+}
+
+.connexion
+{text-decoration: none;
+  display: flex;
+ justify-content: flex-end;
+}
+
+span
+{ font-size: smaller;
+  font-family: Arial;
+  color: black;
+  padding:15px;
+  text-decoration: none;
+  margin-top:50px
+  
+}
+
+span: visited
+{
+  color: black;
+  text-decoration: none
+}
+
+span: active
+{
+  text-decoration: none;
+  color: black
+
+}
+
+strong: 
+{
+  text-decoration: none;
+  padding-left: 15px;
+  margin-right: 123px;
+  background-color: none
+}
+
+strong: visited
+{
+  text-decoration: none;
+  background-color: none;
+  padding-left: 15px;
+  margin-right: 123px;
+}
+
+strong: active
+{
+  color: #737373;
+  background-color: none; 
+  padding-left: 15px;
+  margin-right: 123px;
+}
+
+em
+{
+  padding-right: 16px;
+}
+
+.foot2
+{
+  margin-left: 600px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.foot
+{
+  display: flex;
+    margin-top: 13px ;
+    max-height: 800px;
+    margin-left: 30px;
+    justify-content: space-between;    
+}
+
+.footer2
+{
+display: flex;
+    align-items: flex-end;
+    color: #5F6368;
+  border: 15px #F4F4F4;
+  background-color: #F4F4F4;
+}
+
+.footer2:visited
+{
+  color: #5F6368;
+  border: 2px black;
+  background-color: #F4F4F4;
+  font-size: smaller;
+  text-decoration: none;
+}
+
+.footer1
+{
+    display: flex;
+    margin-top: 267px;
+    margin-left: 30px;
+    color: #5F6368;
+  border: 2px #F4F4F4;
+  background-color: #F4F4F4;
+}
+
+
+
